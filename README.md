@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maryam, I'm researcher, data analyst and data scientist.
 - 👀 I’m interested in Machine leraning and Deep learning specially NLP and prediction field.
-- 🌱 I’m currently learning sentiment analysis.
+- 🌱 I’m currently learning sentiment analysis and transformers.
 - 📫 You can reach me by my email: m.yazdani94@gmail.com
 
 <!---
